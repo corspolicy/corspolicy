@@ -1,16 +1,17 @@
-### Hi there 👋
+# Selam Kanka Ben Kerim, Web Tasarım Bölümünde Okuyan 17 Yaşında Bir Öğrenciyim.
 
-<!--
-**CoreKerimy/CoreKerimy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Hobilerim
+#### *Web Programlama*
+#### *Müzik Dinlemek*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Aktif Bir Şekilde Kullandığım Programlar ve Diller
+
+#### *Adobe Photoshop*
+#### *Visual Studio Code*
+
+#### *HTML*
+
+#### *CSS*
+
+#### *Javascript*
