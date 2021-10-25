@@ -1,4 +1,4 @@
-# Selam Kanka Ben Kerim, Web Tasarım Bölümünde Okuyan 17Yaşında Bir Öğrenciyim.
+# Selam Kanka Ben Kerim, Web Tasarım Bölümünde Okuyan 17 Yaşında Bir Öğrenciyim.
 
 
 ## Hobilerim
