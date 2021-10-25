@@ -1,4 +1,4 @@
-# Selam kanka ben Kerim, Web programlama bölümünde okuyan 17 yaşında bir öğrenciyim.
+# Selam Kanka Ben Kerim, Web Programlama Bölümünde Okuyan 17 Yaşında Bir Öğrenciyim.
 
 
 ## Hobilerim
