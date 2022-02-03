@@ -8,6 +8,7 @@
 ## Aktif Bir Şekilde Kullandığım Programlar ve Diller
 
 #### *Adobe Photoshop*
+#### *3ds Max*
 #### *Visual Studio Code*
 #### *HTML*
 #### *CSS*
