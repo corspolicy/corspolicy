@@ -1,23 +1,19 @@
-# Selam Kanka Ben Kerim, Web Programlama Bölümünde Okuyan 17 Yaşında Bir Öğrenciyim.
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/879740287801495572)](https://discord.com/users/879740287801495572)
 
 
-## Hobilerim
-#### *Web Programlama*
-#### *Müzik Dinlemek*
-
-## Aktif Bir Şekilde Kullandığım Programlar ve Diller
-
-#### *Adobe Photoshop*
-#### *3ds Max*
-#### *Visual Studio Code*
-#### *HTML*
-#### *CSS*
-#### *Javascript*
-#### *Python*
-
-
-
-<a href="https://github.com/CoreKerimy">
-  <img src="https://github-readme-stats.vercel.app/api?username=CoreKerimy&count_private=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=df761c&text_color=FFFFFF&icon_color=df761c">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoreKerimy&layout=compact&theme=nord&hide_border=true&bg_color=0d1117&border_radius=6&title_color=df761c">
-</a>
+<p>
+<p align="center">
+	<h4 align="center">
+    💻 Web Developer 
+    🎮 Streamer  
+    📏 Designer <br>
+	and everything in between
+	</h4>
+</p>
+<p align="center">
+    <img  src="https://github-readme-stats.vercel.app/api?username=ryzenen&theme=github_dark&hide_border=true" />
+</p>
+<p align="center">
+	<img  src="http://github-readme-streak-stats.herokuapp.com?user=ryzenen&theme=github-dark&date_format=j%2Fn%5B%2FY%5D&border=DDDDDD00"/>
+</p>
