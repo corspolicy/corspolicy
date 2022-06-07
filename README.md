@@ -10,7 +10,7 @@ const krenarty = {
     code: ["Javascript", "C#", "HTML", "CSS", "PYTHON" "PHP"],
     askMeAbout: ["full stack", "game", "music"],
     technologies: {
-       mobile: ["Android App"],
+       mobile: ["Android"],
        computer: ["Windows", "Linux"],
     backEnd: {
         php: ["pchart", "ratchet", "mink"],
