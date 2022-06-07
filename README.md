@@ -8,7 +8,7 @@ const krenarty = {
         sex: ["Male"],
 },               
     code: ["Javascript", "C#", "HTML", "CSS", "PYTHON" "PHP"],
-    askMeAbout: ["full stack", "game", "music"],
+    askMeAbout: ["fullstack", "game", "music"],
     technologies: {
        mobile: ["Android"],
        computer: ["Windows", "Linux"],
