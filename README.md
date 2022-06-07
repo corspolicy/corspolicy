@@ -12,8 +12,8 @@
 	</h4>
 </p>
 <p align="center">
-    <img  src="https://github-readme-stats.vercel.app/api?username=corekerimy&theme=github_dark&hide_border=true" />
+    <img  src="https://github-readme-stats.vercel.app/api?username=treanzy&theme=github_dark&hide_border=true" />
 </p>
 <p align="center">
-	<img  src="http://github-readme-streak-stats.herokuapp.com?user=corekerimy&theme=github-dark&date_format=j%2Fn%5B%2FY%5D&border=DDDDDD00"/>
+	<img  src="http://github-readme-streak-stats.herokuapp.com?user=treanzy&theme=github-dark&date_format=j%2Fn%5B%2FY%5D&border=DDDDDD00"/>
 </p>
