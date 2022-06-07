@@ -1,8 +1,6 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/879740287801495572)](https://discord.com/users/879740287801495572)
 
-
-<p>
 ```javascript
 const krenarty = {
     personalty: {
