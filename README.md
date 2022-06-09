@@ -7,7 +7,7 @@ const krenarty = {
         job: ["Student"],
         sex: ["Male"],
 },               
-    code: ["Javascript", "C#", "HTML", "CSS", "PYTHON" "PHP"],
+    code: ["Javascript", "C#", "HTML", "CSS", "PYTHON", "PHP"],
     askMeAbout: ["fullstack", "game", "music"],
     technologies: {
        mobile: ["Android"],
@@ -16,5 +16,5 @@ const krenarty = {
         php: ["pchart", "ratchet", "mink"],
 },
     databases: ["MySql"],
-}},
+}}
 ```
