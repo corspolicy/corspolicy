@@ -1,4 +1,4 @@
-[![Discord Krenarty#3224](https://raw.githubusercontent.com/krenarty/krenarty/main/krenarty.png)](https://discord.com/users/879740287801495572)
+[![Discord Presence](https://lanyard.cnrad.dev/api/879740287801495572)](https://discord.com/users/879740287801495572)
 ```javascript
 const krenarty = {
     personalty: {
