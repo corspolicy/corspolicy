@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/879740287801495572)](https://discord.com/users/879740287801495572)
+![Discord Presence](https://lanyard-profile-readme.vercel.app/api/879740287801495572)](https://discord.com/users/879740287801495572)
 ```javascript
 const krenarty = {
     personalty: {
