@@ -4,7 +4,7 @@
 <a href="https://www.instagram.com/krenarty"></a> &nbsp;
 [![GitHub Krenarty](https://img.shields.io/badge/@krenarty-8b72ff?style=flat&logo=github&logoColor=white)](https://instagram.com/krenarty)&nbsp;
 <a href="https://www.instagram.com/krenarty"></a> &nbsp;
-[![Twitter Krenarty](https://img.shields.io/badge/@krenarty-8b72ff?style=flat&logo=twitter&logoColor=white)](https://instagram.com/krenarty)&nbsp;
+[![Twitter Krenarty](https://img.shields.io/badge/@krenarty-8b72ff?style=flat&logo=linkedin&logoColor=white)](https://instagram.com/krenarty)&nbsp;
 <a href="https://www.instagram.com/krenarty"></a> &nbsp;
 [![Reddit Krenarty](https://img.shields.io/badge/@krenarty-8b72ff?style=flat&logo=reddit&logoColor=white)](https://instagram.com/krenarty)&nbsp;
 <a href="https://www.instagram.com/krenarty"></a> &nbsp;
