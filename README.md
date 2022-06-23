@@ -8,7 +8,7 @@
 <a href="https://www.instagram.com/krenarty"></a> &nbsp;
 [![Reddit Krenarty](https://img.shields.io/badge/@krenarty-8b72ff?style=flat&logo=reddit&logoColor=white)](https://reddit.com/krenarty)&nbsp;
 <a href="https://www.instagram.com/krenarty"></a> &nbsp;
-[![Linkedin Krenarty](https://img.shields.io/badge/@krenarty-c6ceff?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/krenarty)&nbsp;
+[![Linkedin Krenarty](https://img.shields.io/badge/@krenarty-8b72ff?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/krenarty)&nbsp;
 <a href="https://www.instagram.com/krenarty"></a> &nbsp;
 
 ```javascript
