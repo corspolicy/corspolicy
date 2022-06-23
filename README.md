@@ -2,6 +2,8 @@
 
 [![GitHub Krenarty](https://img.shields.io/badge/@krenarty-8b72ff?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/krenarty)&nbsp;
 <a href="https://www.instagram.com/krenarty"></a> &nbsp;
+[![GitHub Krenarty](https://img.shields.io/badge/@krenarty-8b72ff?style=flat&logo=github&logoColor=white)](https://instagram.com/krenarty)&nbsp;
+<a href="https://www.instagram.com/krenarty"></a> &nbsp;
 
 ```javascript
 const krenarty = {
