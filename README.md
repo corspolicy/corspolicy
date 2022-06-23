@@ -1,6 +1,6 @@
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/879740287801495572)](https://discord.com/users/879740287801495572)
 
-[![GitHub Krenarty](https://img.shields.io/badge/@krenarty-8b72ff?style=flat&logo=Instagram&logoColor=white)](https://github.com/krenarty)&nbsp;
+[![GitHub Krenarty](https://img.shields.io/badge/@krenarty-8b72ff?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/krenarty)&nbsp;
 <a href="https://www.instagram.com/krenarty"></a> &nbsp;
 
 ```javascript
