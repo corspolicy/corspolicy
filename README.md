@@ -1,6 +1,6 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/879740287801495572)](https://discord.com/users/879740287801495572)
-
+[![Discord Ryzenen#5194](https://ryzenen.github.io/ryzenen/discord.svg)](https://discord.com/users/852613869406912563)
 ```javascript
 const krenarty = {
     personalty: {
