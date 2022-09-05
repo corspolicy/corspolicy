@@ -32,7 +32,7 @@ const krenarty = {
 [![Instagram hilalran](https://img.shields.io/badge/@hilalran-8b72ff?style=flat&logo=instagram&logoColor=white)](https://instagram.com/hilalran)&nbsp;
 [![GitHub hilallcettiin](https://img.shields.io/badge/@hilallcettiin-8b72ff?style=flat&logo=github&logoColor=white)](https://github.com/hilallcettiin/)&nbsp;
 [![Vsco hilallran](https://img.shields.io/badge/@hilallran-8b72ff?style=flat&logo=vsco&logoColor=white)](https://vsco.co/hilallran/gallery)&nbsp;
-[!Krenartycom hilallran](https://img.shields.io/badge/@krenartycom-8b72ff?style=flat&logo=company&logoColor=white)](https://github.com/krenartycom)&nbsp;
+[![Krenarty.com hilallcetiin](https://img.shields.io/badge/@krenartycom-000000?style=flat&logo=github&logoColor=white)](https://github.com/krenartycom)&nbsp;
 
 ```javascript
 const hilallcetiin = {
