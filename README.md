@@ -1,6 +1,6 @@
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/879740287801495572)](https://discord.com/users/879740287801495572)
 
-[![Krenarty.com Krenarty](https://img.shields.io/badge/@krenartycom-74bde0?style=flat&logo=github&logoColor=white)](https://github.com/krenartycom)&nbsp;
+[![Krenarty.com Krenarty](https://img.shields.io/badge/@krenartycom-000000?style=flat&logo=github&logoColor=white)](https://github.com/krenartycom)&nbsp;
 [![Instagram Krenarty](https://img.shields.io/badge/@krenarty-8b72ff?style=flat&logo=instagram&logoColor=white)](https://instagram.com/krenarty)&nbsp;
 [![GitHub Krenarty](https://img.shields.io/badge/@krenarty-8b72ff?style=flat&logo=github&logoColor=white)](https://github.com/krenarty)&nbsp;
 [![Twitter Krenarty](https://img.shields.io/badge/@krenarty-8b72ff?style=flat&logo=twitter&logoColor=white)](https://twitter.com/krenarty)&nbsp;
