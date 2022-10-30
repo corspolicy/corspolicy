@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1023631759998455918)](https://discord.com/users/958788666174607400)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/958788666174607400)](https://discord.com/users/958788666174607400)
 
 [![Krenarty.com Krenarty](https://img.shields.io/badge/@krenartycom-000000?style=flat&logo=github&logoColor=white)](https://github.com/krenartycom)&nbsp;
 [![GitHub Krenarty](https://img.shields.io/badge/@krenarty-ffffff?style=flat&logo=github&logoColor=black)](https://github.com/krenarty)&nbsp;
