@@ -10,7 +10,7 @@
 ```javascript
 const krenarty = {
     personalty: {
-        job: ["Student"],
+        job: ["Web Developer"],
         sex: ["Male"],
 },               
     code: ["Javascript", "C#", "HTML", "CSS", "PYTHON", "PHP"],
