@@ -1,7 +1,8 @@
 
 <a href="https://discord.com/users/1023631759998455918">
-    <img "src="https://lanyard.cnrad.dev/api/1023631759998455918?hideDiscrim=false&hideStatus=false&hideTimestamp=false">
+    <img src="https://lanyard.cnrad.dev/api/1023631759998455918?hideDiscrim=false&hideStatus=false&hideTimestamp=false">
   </a>
+  <br>
 
 
 
