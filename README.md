@@ -7,8 +7,8 @@
 
 
 ```javascript
-const personality = {
-    personality: {
+const krenarty = {
+    krenarty: {
         job: ["Web Developer"],
         sex: ["Male"],
 },               
