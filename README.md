@@ -12,7 +12,7 @@ const krenarty = {
         job: ["Web Developer"],
         sex: ["Male"],
 },               
-    code: ["Javascript", "C#", "HTML", "CSS", "PYTHON", "PHP"],
+    code: ["JS", "C#", "HTML", "CSS", "PYTHON", "PHP"],
     askMeAbout: ["fullstack", "game", "music"],
     technologies: {
        mobileOS: ["Ios"],
