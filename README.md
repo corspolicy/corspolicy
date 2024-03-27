@@ -1,6 +1,6 @@
 
 <a href="https://discord.com/users/1095630980980682873">
-    <img src="https://api.lanyard.rest/v1/users/1207417455429951538">
+    <img src="https://lanyard-profile-readme.vercel.app/api/1207417455429951538">
   </a>
   <br> <br> 
 
