@@ -1,10 +1,8 @@
 
 <a href="https://discord.com/users/1095630980980682873">
-    <img src="[https://lanyard.cnrad.dev/api/1095630980980682873?hideDiscrim=false&hideStatus=false&hideTimestamp=false](https://api.lanyard.rest/v1/users/1207417455429951538)">
+    <img src="https://api.lanyard.rest/v1/users/1207417455429951538">
   </a>
   <br> <br> 
-
-
 
 ```javascript
 const krenarty = {
