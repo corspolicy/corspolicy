@@ -1,7 +1,9 @@
 
-<a href="https://discord.com/users/1245731554286633033">
-    <img src="https://lanyard-profile-readme.vercel.app/api/1207417455429951538">
-  </a>
+ <img
+	style="min-width: 134px; max-height: 134px;"
+	 width="320"
+        src="https://lanyard-profile-readme.vercel.app/api/166331543378198528?theme=dark&bg=000000&animated=false&borderRadius=10px"
+     />
   <br> <br> 
 
 ```javascript
