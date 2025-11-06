@@ -32,12 +32,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
 </div>
 
-<div align="center">
-  <br>
-  <img 
-    width="320"
-    src="https://lanyard-profile-readme.vercel.app/api/1245731554286633033?theme=dark&bg=000000&animated=false&borderRadius=10px"
-    alt="Discord Presence"
-  />
-</div>
 
